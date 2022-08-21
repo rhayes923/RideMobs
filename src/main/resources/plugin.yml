@@ -1,0 +1,9 @@
+name: RideMobs
+main: com.ryan.ridemobs.RideMobs
+version: 1.0
+api-version: 1.19
+depend: [ProtocolLib]
+commands:
+   ride:
+      description: Ride a mob
+      usage: /ride <mob>
